@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **daxit/daxit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Daxit, pronounced doc-sit. I'm a JS, React, and anything web guru. I love making things. Check out some of my favorite projects below!
+I'm Daxit, pronounced doc-sit. I'm a JS, React, and anything web guru. 
+
+I love making things. Check out some of my favorite projects below!
