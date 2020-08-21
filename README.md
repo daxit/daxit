@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Daxit, pronounced doc-sit. I'm a JS, React, and anything web guru. 
+I'm Daxit, pronounced doc-sit. I'm a JS, React, and anything web developer. 
 
 I love making things. Check out some of my favorite projects below!
